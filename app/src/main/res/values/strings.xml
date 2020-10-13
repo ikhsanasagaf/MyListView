@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MyListView</string>
+    <string name="name_apparel">Apparel List</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name">
+        <item>Red Tshirt</item>
+        <item>Black Tshirt</item>
+        <item>Blue Polo</item>
+        <item>Grey Pants</item>
+        <item>Black Pants</item>
+        <item>Socks</item>
+        <item>Black Shoes</item>
+        <item>Grey Shoes</item>
+        <item>Comfy Shoes</item>
+        <item>Bike Shoes</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Comfortable Puma Red Tshirt for your Activity. Premium Cotton, with printed Logo
+            Make you more Fashionable. Wear it Anytime, Anywhere. </item>
+        <item>The One and Only HRX Shirt have a Slim-Fit Technology, with the air hole, you will get
+        the Best Experience.</item>
+        <item>Puma Polo Shirt, the Most-Buy item in our Store, with the Comfy Material, the Perfect
+        Color will pay their atention.</item>
+        <item>Nike Sport Pants with the best Material for absorbing your sweat, Easy to Wash, Wear
+        it Anytime, Anywhere.</item>
+        <item>Best Pants you can pick in out store, Best Material, Perfect Color for your fashion
+        , Go grab it before Sold!</item>
+        <item>HRX Socks, with 3 different color, perfect Socks for your shoes, best Material with
+        nano WEB leather, Grab it Fast!</item>
+        <item>Our Best Running Shoes, HRX Black Edition, with Slim-Design, just 0,3Kg of Weight,
+        Very Comfy Material for your feet, Go Buy It!</item>
+        <item>Now, we Release our stylist-Shoes, the Grey High Nike Superboost, the Newest material
+        from us, the First one have the Comfort-Sport Technology, Order Now!</item>
+        <item>HRX Grey Comfy Shoes, go Upgrade your style with this HRX Grey Comfy Shoes, perfect
+        matches for the casual. </item>
+        <item>One of the Best Bike Shoes in The World, the HRX Bike Shoes, came with Slim Design
+        for your Experience, 99% Water Resistance, Come grab It Fast before its Sold!</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/red_tshirt</item>
+        <item>@drawable/black_tshirt</item>
+        <item>@drawable/blue_polo</item>
+        <item>@drawable/grey_pants</item>
+        <item>@drawable/black_pants</item>
+        <item>@drawable/socks</item>
+        <item>@drawable/black_shoes</item>
+        <item>@drawable/grey_shoes</item>
+        <item>@drawable/comfy_shoes</item>
+        <item>@drawable/bike_shoes</item>
+    </array>
+</resources>
